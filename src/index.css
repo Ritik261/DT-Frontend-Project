@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@import "@flaticon/flaticon-uicons/css/all/all";
+
+body{
+    background: #0096FF;
+}
+
+h2{
+    font:10px;
+}
